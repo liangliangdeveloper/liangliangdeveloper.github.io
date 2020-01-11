@@ -2,22 +2,23 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       Download
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
+  zh-Hans : &ZH_HANS 下载
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
+  zh-Hant : &ZH_HANT 下載
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
   # @end locale config
-key: page-about
+key: page-download
+
 ---
 
-# 关于
+# 下载
 
-这是我的关于页，还在建设中......
+这是下载页面
