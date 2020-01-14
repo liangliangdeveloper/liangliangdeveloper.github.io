@@ -223,3 +223,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
